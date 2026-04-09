@@ -1,7 +1,8 @@
 ## Learning_set (目录)
 
-1. 脑电知识
-2. 机器学习知识
-3. 信号相关知识
+1. EEG 
+2. Machine
+3. Signal
+4. 
 
 
