@@ -1,8 +1,8 @@
-## Learning_set (目录)
+## Learning_set 
 
-1. EEG 
-2. Machine
-3. Signal
-4. 
+1. EEG General knowledge
+2. Machine Learn
+3. Signal Analysis
+
 
 
